@@ -19,7 +19,7 @@
 <body>
 
 <header>
-    <h1>Historia del Cálculo Integral</h1>
+    <h1>Historia alejandro del Cálculo Integral</h1>
     <p>Desde la antigüedad hasta la actualidad</p>
 </header>
 
